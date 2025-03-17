@@ -9,4 +9,4 @@ The dataset contains no personally identifiable information (PII) beyond the gen
 
 
 ### My goal
-The objective of this project is to develop a model that can predict property prices based on various factors such as location (state, city, zip code) and property characteristics (number of bedrooms, bathrooms, and lot size). By analyzing the relationships between these attributes and property values, I aim to build a machine learning model that can accurately estimate house prices, offering valuable insights
+The objective of this project is to develop a model that can predict property prices based on various factors such as location (state, city, zip code) and property characteristics (number of bedrooms, bathrooms, and lot size). By analyzing the relationships between these attributes and property values, I aim to build a machine learning model that can accurately estimate house prices.
