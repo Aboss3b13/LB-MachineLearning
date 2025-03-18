@@ -4,6 +4,8 @@
 ### Dataset Description
 This dataset provides detailed information about the prices of houses across various locations, including the state, city, and zip code of the property. Additionally, it includes key features of the properties, such as the number of bedrooms, bathrooms, and the size of the lot, which is measured in acres. The dataset is structured to offer a comprehensive overview of factors that may influence property prices, allowing for analysis and prediction modeling.
 
+P.S The original CVS file conrtains over a million different entries. This one has roughle 300000, because the file was too big to upload.
+
 ### Privacy and Measures
 The dataset contains no personally identifiable information (PII) beyond the general location and property details.
 
