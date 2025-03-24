@@ -12,3 +12,7 @@ The dataset contains no personally identifiable information (PII) beyond the gen
 
 ### My goal
 The objective of this project is to develop a model that can predict property prices based on various factors such as location (state, city, zip code) and property characteristics (number of bedrooms, bathrooms, and lot size). By analyzing the relationships between these attributes and property values, I aim to build a machine learning model that can accurately estimate house prices.
+
+### 2.4
+
+In this dataset, scaling fields like price or bed is not required because decision trees (such as Random Forest) and other algorithms are not sensitive to the different scales of input values. For linear models, scaling might be helpful, but since we are mainly focused on price predictions and simple classifications, we have opted not to scale the data.
